@@ -1,0 +1,473 @@
+==========================================
+       SIDE HUSTLE STARTER PACK
+==========================================
+
+Everything you need to launch your first side hustle—from idea validation to your first paying client.
+
+------------------------------------------
+PART 1: IDEA VALIDATION FRAMEWORK
+------------------------------------------
+
+Before you build anything, answer these 10 questions:
+
+1. WHO IS THIS FOR?
+   - Specific person (not "everyone")
+   - What's their biggest frustration right now?
+   - Where do they hang out online?
+
+2. WHAT PROBLEM DOES IT SOLVE?
+   - Can you describe it in one sentence?
+   - Is this a "nice to have" or "need to have"?
+   - How urgently do they need this solved?
+
+3. WHY WOULD THEY PAY YOU?
+   - What makes your solution different?
+   - Why you instead of competitors?
+   - What's your unfair advantage?
+
+4. IS THERE MONEY HERE?
+   - Are people already paying for similar solutions?
+   - What are competitors charging?
+   - Can you find 10 potential customers in 10 minutes?
+
+5. CAN YOU REACH THEM?
+   - Where can you find these people today?
+   - Can you get in front of them for free?
+   - What platform do they use most?
+
+6. CAN YOU DELIVER?
+   - Do you have the skills (or can you learn fast)?
+   - How long would the first version take?
+   - What's the minimum viable service?
+
+7. PASSION CHECK
+   - Would you still do this after 6 months?
+   - Does this energize or drain you?
+   - Can you talk about this topic for hours?
+
+8. QUICK WIN TEST
+   - Could you get your first customer this week?
+   - What would a $100 version look like?
+   - Who could you pitch today?
+
+9. SCALE POTENTIAL
+   - Can this grow beyond just you?
+   - What would 10x revenue look like?
+   - Is there a product you could create later?
+
+10. EXIT OPTIONS
+    - Could you sell this business someday?
+    - Is it dependent on you specifically?
+    - What would make someone want to buy it?
+
+VALIDATION SCORE:
+Give each answer a score from 1-10.
+- 70+: Green light, start building
+- 50-70: Promising, refine the idea
+- Below 50: Keep brainstorming
+
+
+------------------------------------------
+PART 2: LEAN BUSINESS PLAN (ONE PAGE)
+------------------------------------------
+
+Fill this out before you start. No business plan should take more than one page.
+
+THE IDEA:
+What you offer: _________________________________
+Who you serve: _________________________________
+Problem you solve: _________________________________
+Your unfair advantage: _________________________________
+
+THE MONEY:
+Pricing model: _________________________________
+Average sale value: _________________________________
+Monthly revenue goal: _________________________________
+Sales needed per month: _________________________________
+Startup costs: _________________________________
+
+THE CUSTOMERS:
+Where they hang out: _________________________________
+How you'll reach them: _________________________________
+First 10 customers will come from: _________________________________
+What you'll say to get them: _________________________________
+
+THE EXECUTION:
+Launch date: _________________________________
+MVP version includes: _________________________________
+First milestone (30 days): _________________________________
+Success looks like: _________________________________
+
+THE RISKS:
+Biggest risk: _________________________________
+How you'll mitigate it: _________________________________
+Backup plan: _________________________________
+
+
+------------------------------------------
+PART 3: PRICING CALCULATOR
+------------------------------------------
+
+COST-BASED PRICING:
+Your hourly rate goal: $______
+Hours per project: ______
+Direct costs per project: $______
+Profit margin target: ______%
+
+Minimum price = (Hours × Rate + Costs) × (1 + Margin)
+= ____________________________
+
+VALUE-BASED PRICING:
+What's this worth to the customer? $______
+What do competitors charge? $______
+What would make this a no-brainer? $______
+
+Sweet spot price: $______
+
+PRICING RULES:
+✓ Always include 3 tiers (good/better/best)
+✓ Never compete on price alone
+✓ Raise prices after 5 customers at each tier
+✓ Test pricing—you can always adjust
+
+3-TIER PRICING TEMPLATE:
+
+BASIC: $_____
+- Core deliverable
+- Standard turnaround
+- Email support
+
+STANDARD: $_____  [BEST VALUE]
+- Everything in Basic
+- Faster turnaround
+- 1 revision round
+- Priority support
+
+PREMIUM: $_____
+- Everything in Standard
+- Rush delivery
+- Unlimited revisions
+- 1:1 call included
+
+
+------------------------------------------
+PART 4: CLIENT TRACKING SPREADSHEET
+------------------------------------------
+
+Set up a simple tracker with these columns:
+
+| Client Name | Contact | Service | Price | Status | Start | Due | Paid? | Notes |
+|-------------|---------|---------|-------|--------|-------|-----|-------|-------|
+
+STATUS OPTIONS:
+- Lead (interested, not committed)
+- Proposal Sent
+- In Progress
+- Delivered
+- Invoiced
+- Paid
+- Completed
+
+FOLLOW-UP SCHEDULE:
+- Lead: Follow up in 3 days
+- Proposal Sent: Follow up in 5 days
+- Invoiced: Follow up in 7 days, then 14
+
+
+------------------------------------------
+PART 5: SIMPLE INVOICE TEMPLATE
+------------------------------------------
+
+YOUR BUSINESS NAME
+Your email | Your phone | Your website
+
+INVOICE #: _______
+DATE: _______
+DUE DATE: _______
+
+BILL TO:
+Client Name
+Client Address
+Client Email
+
+SERVICES:
+Description                              Amount
+---------------------------------------- ------
+[Service description]                    $______
+[Additional items]                       $______
+                                         ------
+                            SUBTOTAL:    $______
+                            TAX (___%):  $______
+                            TOTAL DUE:   $______
+
+PAYMENT METHODS:
+- PayPal: your@email.com
+- Venmo: @yourusername
+- Bank Transfer: [details]
+
+NOTES:
+- Payment due within [X] days of invoice date
+- Late payments subject to [X]% fee
+- Questions? Email [your email]
+
+
+------------------------------------------
+PART 6: BASIC SERVICE CONTRACT
+------------------------------------------
+
+This is a simple agreement between:
+PROVIDER: _________________________ ("You")
+CLIENT: _________________________ ("Client")
+
+THE PROJECT:
+What you'll deliver: _________________________
+Timeline: Start _______ | End _______
+Revisions included: _______
+
+THE MONEY:
+Total price: $_______
+Payment schedule: 
+  □ 50% upfront: $_______
+  □ 50% on completion: $_______
+
+WHAT'S INCLUDED:
+- [ ] ___________________________________
+- [ ] ___________________________________
+- [ ] ___________________________________
+
+WHAT'S NOT INCLUDED:
+- Additional revisions beyond [X]
+- Rush fees for changes to timeline
+- Work outside scope
+
+THE FINE PRINT:
+- Client owns final deliverables after full payment
+- You may use work in your portfolio
+- Either party can cancel with [X] days notice
+- Refund policy: ___________________________________
+
+SIGNATURES:
+Provider: _____________ Date: _______
+Client: _____________ Date: _______
+
+
+------------------------------------------
+PART 7: CLIENT ONBOARDING QUESTIONNAIRE
+------------------------------------------
+
+Send this to every new client to start right.
+
+ABOUT YOUR PROJECT:
+1. What do you need? (in your own words)
+2. What's the deadline?
+3. What does success look like?
+
+ABOUT YOUR BUSINESS:
+4. What does your company do?
+5. Who's your target customer?
+6. What makes you different from competitors?
+
+PREFERENCES:
+7. Any examples of work you love? (links appreciated)
+8. Any examples of what you DON'T want?
+9. Colors, fonts, or styles to match?
+
+LOGISTICS:
+10. Best way to reach you?
+11. Who approves the final work?
+12. How did you hear about me?
+
+
+------------------------------------------
+PART 8: EXPENSE TRACKER
+------------------------------------------
+
+Track every dollar to know your real profit.
+
+STARTUP EXPENSES:
+| Item | Category | Amount | Date | Tax Deductible? |
+|------|----------|--------|------|-----------------|
+
+MONTHLY EXPENSES:
+| Description | Category | Amount | Date | Recurring? |
+|-------------|----------|--------|------|------------|
+
+EXPENSE CATEGORIES:
+- Software/Tools
+- Marketing/Ads
+- Education/Courses
+- Equipment
+- Subscriptions
+- Professional Services
+- Supplies
+- Other
+
+MONTHLY SUMMARY:
+Total Income: $_______
+Total Expenses: $_______
+Net Profit: $_______
+Profit Margin: _______%
+
+
+------------------------------------------
+PART 9: WEEKLY CHECK-IN TEMPLATE
+------------------------------------------
+
+Do this every Friday. 15 minutes.
+
+THIS WEEK'S WINS:
+1. _________________________________
+2. _________________________________
+3. _________________________________
+
+THIS WEEK'S LESSONS:
+What worked: _________________________________
+What didn't: _________________________________
+What I'll do differently: _________________________________
+
+BY THE NUMBERS:
+New leads: ______
+Proposals sent: ______
+Sales closed: ______
+Revenue: $______
+Hours worked: ______
+Effective hourly rate: $______
+
+NEXT WEEK'S PRIORITIES:
+1. _________________________________
+2. _________________________________
+3. _________________________________
+
+ENERGY CHECK (1-10):
+How excited am I about this? ______
+What would make it a 10? _________________________________
+
+
+------------------------------------------
+PART 10: FIRST CLIENT OUTREACH SCRIPTS
+------------------------------------------
+
+COLD EMAIL TEMPLATE:
+Subject: Quick question about [specific thing]
+
+Hi [Name],
+
+I saw your [post/product/company] and noticed [specific observation].
+
+I help [target audience] with [specific problem]. Recently, I [specific result for a client].
+
+Would you be open to a quick call to see if I could help with [their specific situation]?
+
+Either way, loved what you're doing with [compliment].
+
+[Your name]
+
+---
+
+WARM INTRO TEMPLATE:
+Subject: [Mutual connection] suggested I reach out
+
+Hi [Name],
+
+[Mutual connection] mentioned you might need help with [service].
+
+I specialize in [specific thing] and helped [similar client] achieve [result].
+
+Happy to share more details if you're interested. No pressure either way.
+
+Best,
+[Your name]
+
+---
+
+SOCIAL DM TEMPLATE:
+Hey [Name]! Love your [specific content]. 
+
+Quick question—are you currently [handling specific task] yourself or working with someone?
+
+I help [target audience] with [service] and thought we might be a good fit. Happy to chat more if you're curious.
+
+
+------------------------------------------
+PART 11: TESTIMONIAL REQUEST TEMPLATES
+------------------------------------------
+
+SIMPLE ASK:
+Hey [Name],
+
+I'm so glad [positive outcome from your work].
+
+Would you mind sharing a quick testimonial I could use? Just 2-3 sentences about your experience working with me.
+
+No pressure—but it would mean a lot!
+
+---
+
+GUIDED QUESTIONS (if they need help):
+Mind answering one or two of these?
+- What was your situation before we worked together?
+- What did we accomplish?
+- What surprised you most about the experience?
+- Would you recommend me? Why?
+
+
+------------------------------------------
+PART 12: SIDE HUSTLE LAUNCH CHECKLIST
+------------------------------------------
+
+BEFORE YOU START:
+□ Idea validated (10+ people said they'd pay)
+□ One-page business plan complete
+□ Pricing set (3 tiers)
+□ Simple contract ready
+□ Invoice template ready
+
+WEEK 1:
+□ Tell 10 friends/family what you're doing
+□ Post on social media announcing your service
+□ Reach out to 5 potential clients
+□ Set up simple payment method (PayPal, Stripe, Venmo)
+□ Create one piece of content showing your expertise
+
+WEEK 2:
+□ Follow up with all Week 1 contacts
+□ Reach out to 10 more potential clients
+□ Post 3x on your main platform
+□ Ask 3 people for referrals
+
+WEEK 3:
+□ Close your first client (or find out why not)
+□ Start collecting testimonials
+□ Refine your pitch based on feedback
+□ Reach out to 10 more people
+
+WEEK 4:
+□ Review what's working/not working
+□ Adjust pricing if needed
+□ Set up recurring marketing habit
+□ Plan next month's goals
+
+
+==========================================
+       BONUS: MINDSET REMINDERS
+==========================================
+
+• Start before you're ready
+• Your first version won't be perfect—that's fine
+• One paying customer beats 1000 followers
+• Charge more than feels comfortable
+• "No" means "not right now"
+• Consistency beats intensity
+• Revenue solves most problems
+• Ask for referrals every time
+• Done is better than perfect
+• You only need one thing to work
+
+==========================================
+       GO GET YOUR FIRST CUSTOMER
+==========================================
+
+Questions? Reach out to hello@fiftytok.com
+More templates at fiftytok.com
+
+© FiftyTok 2026 — All rights reserved

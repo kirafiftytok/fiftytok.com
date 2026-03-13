@@ -1,0 +1,463 @@
+============================================
+CLIENT ONBOARDING TEMPLATE PACK
+by FiftyTok
+============================================
+
+Your complete system for onboarding clients professionally.
+10 templates + 2 bonus cheat sheets.
+
+Works for: Freelancers, consultants, agencies, coaches, creatives
+
+============================================
+TABLE OF CONTENTS
+============================================
+1. Welcome Email
+2. Client Intake Questionnaire
+3. Kickoff Call Agenda
+4. Project Brief (Scope Document)
+5. Weekly Status Update
+6. Feedback Request
+7. Scope Change Request
+8. Project Wrap-Up Email
+9. Testimonial Request
+10. Offboarding Checklist
+BONUS: Client Red Flags Checklist
+BONUS: Onboarding Timeline Cheat Sheet
+
+============================================
+TEMPLATE 1: WELCOME EMAIL
+============================================
+
+Subject: Welcome to [Your Business]! Here's What Happens Next
+
+Hey [Client First Name],
+
+I'm so excited to officially kick things off with you!
+
+Here's what's happening next:
+
+1. This week: You'll receive a short questionnaire to help me understand your needs better
+2. Within 3 days: We'll schedule our kickoff call to align on goals and timeline
+3. After kickoff: I'll send over a project brief for your approval before we dive in
+
+A few quick things:
+- Best way to reach me: [email/Slack/whatever]
+- My typical response time: [e.g., same business day]
+- Office hours: [your hours]
+
+If anything comes up before our kickoff call, just reply to this email.
+
+Talk soon,
+[Your Name]
+
+
+============================================
+TEMPLATE 2: CLIENT INTAKE QUESTIONNAIRE
+============================================
+
+[Your Business Name] — Client Intake Questionnaire
+
+Please complete this form before our kickoff call. Takes about 10-15 minutes.
+
+ABOUT YOU & YOUR BUSINESS
+1. What's your business name and what do you do in one sentence?
+2. Who is your ideal customer? (Be specific — age, job, challenges, goals)
+3. What makes you different from competitors?
+4. What's your website/social links?
+
+ABOUT THIS PROJECT
+5. What are we creating together? (In your own words)
+6. What does success look like for this project?
+7. What's the #1 thing you want people to feel/do when they see this?
+8. Any examples of work you love? (Links or descriptions)
+9. Any specific no-gos or things you hate?
+
+LOGISTICS
+10. What's your target deadline? (Hard deadline vs. preferred)
+11. Who's the final decision-maker on this project?
+12. Who else needs to approve deliverables?
+13. How do you prefer to communicate? (Email, Slack, calls, async video)
+14. How often do you want updates?
+
+BUDGET & EXPECTATIONS
+15. Have you worked with a freelancer/agency/consultant before?
+16. What would make this project feel like a total win?
+17. What would make it feel like a failure?
+18. Anything else I should know?
+
+
+============================================
+TEMPLATE 3: KICKOFF CALL AGENDA
+============================================
+
+Project Kickoff Call — [Client Name]
+Date: [Date]
+Duration: 45-60 minutes
+
+BEFORE THE CALL
+[ ] Review client intake questionnaire
+[ ] Prepare 2-3 initial ideas/approaches
+[ ] Have contract and payment info ready
+
+AGENDA
+
+1. Introductions & Vibe Check (5 min)
+- Quick intros if first time meeting
+- How's their week going? (Build rapport)
+
+2. Confirm Project Scope (10 min)
+- What we're creating
+- What's included / not included
+- Deliverable format
+
+3. Goals & Success Metrics (10 min)
+- What does success look like?
+- How will we measure it?
+- Primary vs. secondary goals
+
+4. Timeline & Milestones (10 min)
+- Key dates and deadlines
+- Review/feedback touchpoints
+- What could cause delays? (Get ahead of blockers)
+
+5. Communication & Process (5 min)
+- How we'll communicate
+- Feedback process
+- What they can expect from me
+
+6. Questions & Next Steps (10 min)
+- Client questions
+- Confirm next action items
+- Schedule follow-up if needed
+
+AFTER THE CALL
+[ ] Send meeting notes within 24 hours
+[ ] Send project brief for approval
+[ ] Begin work per agreed timeline
+
+
+============================================
+TEMPLATE 4: PROJECT BRIEF (SCOPE DOCUMENT)
+============================================
+
+PROJECT BRIEF
+
+Client: [Client Name]
+Project: [Project Name]
+Date: [Date]
+Prepared by: [Your Name]
+
+---
+
+OVERVIEW
+[2-3 sentences describing the project in plain language]
+
+GOALS
+Primary Goal:
+[What's the #1 outcome?]
+
+Secondary Goals:
+- [Goal 2]
+- [Goal 3]
+
+SCOPE
+
+What's Included:
+- [Deliverable 1]
+- [Deliverable 2]
+- [Deliverable 3]
+
+What's NOT Included:
+- [Explicitly list exclusions to prevent scope creep]
+
+TIMELINE
+
+Milestone            | Date     | Notes
+---------------------|----------|-------
+Kickoff call         | [Date]   | Complete
+First draft/version  | [Date]   |
+Client feedback due  | [Date]   |
+Revisions complete   | [Date]   |
+Final delivery       | [Date]   |
+
+BUDGET & PAYMENT
+Total Investment: $[Amount]
+Payment Schedule: [e.g., 50% upfront, 50% on completion]
+
+COMMUNICATION
+- Primary contact: [Name, email]
+- Communication channel: [Email/Slack/etc.]
+- Response time: [e.g., within 1 business day]
+- Check-in schedule: [e.g., weekly status email]
+
+APPROVAL
+By replying "approved" to this brief, you confirm the scope, timeline, and budget above.
+
+Questions? Just reply to this email.
+
+
+============================================
+TEMPLATE 5: WEEKLY STATUS UPDATE
+============================================
+
+Subject: [Project Name] — Week [#] Update
+
+Hey [Client Name],
+
+Quick update on where we're at:
+
+WHAT GOT DONE THIS WEEK
+- [Accomplishment 1]
+- [Accomplishment 2]
+- [Accomplishment 3]
+
+WHAT'S HAPPENING NEXT WEEK
+- [Task 1]
+- [Task 2]
+- [Task 3]
+
+ANY BLOCKERS?
+[None / Or describe what's holding things up]
+
+NEED FROM YOU
+[ ] [Action item with deadline]
+[ ] [Action item with deadline]
+
+TIMELINE CHECK
+We're [on track / slightly behind / ahead of schedule] for the [Date] deadline.
+
+[Optional: Attach preview/WIP if relevant]
+
+Any questions, just hit reply.
+
+[Your Name]
+
+
+============================================
+TEMPLATE 6: FEEDBACK REQUEST
+============================================
+
+Subject: Ready for your feedback on [Project/Deliverable]
+
+Hey [Client Name],
+
+[Deliverable] is ready for your review!
+
+Link/Attachment: [Link or attached file]
+
+FEEDBACK GUIDELINES
+To keep us on track for [deadline], please send feedback by [Date].
+
+When reviewing, it helps to:
+- Be specific ("The headline should be shorter" vs. "Something feels off")
+- Prioritize (What's a must-change vs. nice-to-have?)
+- Note what you love too (Helps me know what's working!)
+
+WHAT YOU'RE APPROVING
+- [Element 1]
+- [Element 2]
+- [Element 3]
+
+REVISIONS INCLUDED
+Per our agreement, this round of feedback is [included / will be billed at $X/hr for additional rounds].
+
+Take a look and let me know your thoughts!
+
+[Your Name]
+
+
+============================================
+TEMPLATE 7: SCOPE CHANGE REQUEST
+============================================
+
+Subject: Quick check-in: Change to [Project] scope
+
+Hey [Client Name],
+
+I wanted to flag a scope change before moving forward:
+
+THE REQUEST:
+[Describe what the client asked for that's outside original scope]
+
+WHY IT'S A CHANGE:
+Our original agreement included [X], but this request would involve [Y], which is additional work.
+
+OPTIONS:
+
+1. Add it to this project 
+   - Additional investment: $[Amount]
+   - Impact on timeline: [None / Adds X days]
+
+2. Save it for Phase 2
+   - We finish current scope on time/budget
+   - Tackle this in a follow-up project
+
+3. Swap priorities
+   - We can replace [existing deliverable] with this new request
+   - No additional cost, but you'd lose [what's being removed]
+
+Just let me know which option works for you, and I'll update the project brief accordingly.
+
+No wrong answer here — just want to make sure we're aligned!
+
+[Your Name]
+
+
+============================================
+TEMPLATE 8: PROJECT WRAP-UP EMAIL
+============================================
+
+Subject: [Project Name] Complete!
+
+Hey [Client Name],
+
+We did it! [Project] is officially complete.
+
+FINAL DELIVERABLES
+- [Link/attachment to final files]
+- [Link/attachment to source files if included]
+- [Any other deliverables]
+
+QUICK RECAP
+We set out to [original goal], and we achieved [result]. Here's what we created:
+- [Summary of deliverables]
+
+WHAT'S NEXT
+- [Any maintenance/support terms]
+- [How to reach you for future work]
+- [Any follow-up recommendations]
+
+ONE SMALL ASK
+If you're happy with the work, I'd really appreciate:
+- A testimonial I can use on my site (reply with a few sentences!)
+- A referral if you know anyone who needs [your service]
+
+It was genuinely great working with you on this. Thanks for trusting me with [project]!
+
+Until next time,
+[Your Name]
+
+
+============================================
+TEMPLATE 9: TESTIMONIAL REQUEST
+============================================
+
+Subject: Quick favor? (30 seconds)
+
+Hey [Client Name],
+
+I hope you're loving [the final deliverable/result of our work]!
+
+I'm building out my portfolio and would really appreciate a quick testimonial from you. If you've got 30 seconds:
+
+Option A: Reply with 2-3 sentences about what it was like working with me
+
+Option B: Answer these prompts:
+- What was your situation before we worked together?
+- What did we create/accomplish?
+- Would you recommend me to others?
+
+Feel free to be casual — real beats polished.
+
+And if you'd prefer, I can draft something based on our work together for you to edit. Just say the word!
+
+Thanks so much,
+[Your Name]
+
+
+============================================
+TEMPLATE 10: OFFBOARDING CHECKLIST
+============================================
+
+Client Offboarding Checklist — [Client Name]
+
+DELIVERABLES
+[ ] All final files sent
+[ ] Source files sent (if included)
+[ ] Assets transferred (fonts, images, etc.)
+[ ] Access/logins shared (if applicable)
+[ ] Documentation provided
+
+ADMIN
+[ ] Final invoice sent
+[ ] Payment received
+[ ] Contract marked complete
+[ ] Remove from active client list
+[ ] Archive project files
+
+FOLLOW-UP
+[ ] Project wrap-up email sent
+[ ] Testimonial requested
+[ ] Added to past clients list
+[ ] Schedule 30/60/90 day check-in (optional)
+
+INTERNAL NOTES
+What went well:
+[Notes]
+
+What could be improved:
+[Notes]
+
+Would work with again? [Yes / With conditions / No]
+
+
+============================================
+BONUS: CLIENT RED FLAGS CHECKLIST
+============================================
+
+Watch out for these during onboarding:
+
+COMMUNICATION RED FLAGS
+- Doesn't respond for days, then expects immediate replies from you
+- Wants to discuss everything on the phone, nothing in writing
+- Vague answers to direct questions
+- "You're the expert, just figure it out" (sounds nice, leads to endless revisions)
+
+SCOPE RED FLAGS
+- "We'll figure out the details as we go"
+- "This should be quick and easy"
+- "I don't know exactly what I want, but I'll know it when I see it"
+- Compares your pricing to Fiverr or their nephew
+
+BUDGET RED FLAGS
+- Pushes back on deposit requirement
+- "Let's do a small test project" (at heavily discounted rate)
+- Tries to negotiate after agreeing
+- Mentions they've "been burned by freelancers before" multiple times
+
+DECISION-MAKING RED FLAGS
+- Multiple stakeholders with vague authority
+- "I'll need to run this by my partner/board/committee"
+- Changes direction after approving something
+
+Not dealbreakers individually, but 3+ = proceed with caution
+
+
+============================================
+BONUS: ONBOARDING TIMELINE CHEAT SHEET
+============================================
+
+Day 1: Contract signed, payment received
+Day 1-2: Send welcome email
+Day 2-3: Send client intake questionnaire
+Day 3-5: Client returns questionnaire
+Day 5-7: Schedule and hold kickoff call
+Day 7-10: Send project brief for approval
+Day 10+: Begin project work
+
+PRO TIPS:
+- Don't start work before deposit clears
+- Set deadline for intake questionnaire (or kickoff gets pushed)
+- Always get scope approval in writing before starting
+- Early professionalism sets expectations for the entire project
+
+
+============================================
+Thank you for purchasing!
+============================================
+
+Questions? hello@fiftytok.com
+
+More productivity tools at: fiftytok.com
+
+FiftyTok — From $50 to $1,000

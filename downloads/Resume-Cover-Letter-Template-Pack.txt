@@ -1,0 +1,651 @@
+====================================================
+        RESUME & COVER LETTER TEMPLATE PACK
+              by FiftyTok
+====================================================
+
+What's Inside:
+- 5 Resume Templates (every career stage)
+- 5 Cover Letter Templates (every situation)
+- Resume Writing Cheat Sheet
+- Cover Letter Writing Tips
+
+====================================================
+              RESUME TEMPLATES
+====================================================
+
+
+----------------------------------------------------
+TEMPLATE 1: CLASSIC PROFESSIONAL RESUME
+----------------------------------------------------
+Works for: Most industries, corporate roles, experienced professionals
+
+[YOUR NAME]
+[City, State] | [Phone] | [Email] | [LinkedIn URL]
+
+---
+
+PROFESSIONAL SUMMARY
+[2-3 sentences highlighting your key qualifications, years of experience, 
+and what makes you valuable. Be specific about your expertise and value.]
+
+---
+
+EXPERIENCE
+
+[Job Title] | [Company Name]
+[City, State] | [Month Year] – [Month Year or Present]
+
+• [Achievement with specific metric] — resulted in [business impact]
+• [Key responsibility] using [relevant skills/tools]
+• [Project or initiative] that [delivered measurable outcome]
+• [Collaboration example] with [teams/stakeholders]
+
+[Previous Job Title] | [Previous Company]
+[City, State] | [Month Year] – [Month Year]
+
+• [Achievement with number/percentage]
+• [Responsibility demonstrating relevant skill]
+• [Result you drove or contributed to]
+
+---
+
+EDUCATION
+
+[Degree] in [Field] | [University Name]
+[City, State] | [Graduation Year]
+• [Relevant honors, activities, or coursework if recent grad]
+
+---
+
+SKILLS
+
+Technical: [List 5-8 relevant technical skills]
+Tools: [Software, platforms, systems you know]
+Languages: [If relevant]
+Certifications: [Professional certifications]
+
+
+----------------------------------------------------
+TEMPLATE 2: TECH/ENGINEERING RESUME
+----------------------------------------------------
+Works for: Software engineers, data scientists, DevOps, tech roles
+
+[YOUR NAME]
+[Location] | [Email] | [Phone] | [GitHub: username] | [LinkedIn: url]
+
+---
+
+SUMMARY
+[Role you're targeting] with [X years] experience in [key technologies]. 
+Proven track record in [1-2 key achievements]. Passionate about [focus area].
+
+---
+
+TECHNICAL SKILLS
+
+Languages: [Python, JavaScript, Go, etc.]
+Frameworks: [React, Django, Node.js, etc.]
+Databases: [PostgreSQL, MongoDB, Redis, etc.]
+Cloud/DevOps: [AWS, Docker, Kubernetes, CI/CD, etc.]
+Other: [APIs, ML, data tools, etc.]
+
+---
+
+EXPERIENCE
+
+[Title] | [Company] | [Location] | [Dates]
+
+• Built [system/feature] using [tech stack] — handled [X requests/users]
+• Reduced [metric] by [X%] through [optimization/refactor]
+• Led [initiative/project] across [X team members]
+• Implemented [solution] that [business outcome]
+
+[Title] | [Company] | [Location] | [Dates]
+
+• [Technical achievement with scale/impact]
+• [Architecture/design decision and its result]
+• [Collaboration or mentorship example]
+
+---
+
+PROJECTS
+
+[Project Name] | [Tech Stack] | [Link if public]
+[1-2 sentences: what it does, key technical decisions]
+
+[Project Name] | [Tech Stack] | [Link]
+[Description with measurable impact or interesting technical challenge]
+
+---
+
+EDUCATION
+
+[Degree] | [University] | [Year]
+[Relevant coursework, thesis, or honors if applicable]
+
+
+----------------------------------------------------
+TEMPLATE 3: CREATIVE/MARKETING RESUME
+----------------------------------------------------
+Works for: Marketers, designers, writers, content creators
+
+[YOUR NAME]
+Creative [Marketer/Designer/Writer] | [Portfolio URL]
+[City] | [Email] | [Phone]
+
+---
+
+ABOUT ME
+[3-4 sentences capturing your creative perspective, project types you 
+excel at, brands you've worked with, and what drives your work. 
+Show personality while staying professional.]
+
+---
+
+EXPERIENCE
+
+[Title] | [Company/Agency] | [Dates]
+
+Campaign/Project Highlights:
+• [Campaign name]: [Result — views, engagement, revenue]
+• [Project]: [Creative approach + measurable outcome]
+• [Initiative]: [What you did + business result]
+
+Day-to-Day:
+• [Responsibility] for [brand/client type]
+• [Collaboration] with [teams]
+• [Tools/platforms used]
+
+[Title] | [Company] | [Dates]
+
+• [Creative achievement with metrics]
+• [Project showcasing your skills]
+• [Growth or recognition]
+
+---
+
+SKILLS
+
+Creative: [Copywriting, Video Production, Graphic Design, etc.]
+Strategy: [Content Strategy, Brand Development, Campaign Planning]
+Tools: [Adobe CC, Figma, Canva, Premiere, etc.]
+Platforms: [Instagram, TikTok, LinkedIn, Email marketing tools]
+Analytics: [GA4, social analytics, A/B testing]
+
+---
+
+EDUCATION & CERTIFICATIONS
+
+[Degree] | [School] | [Year]
+[Relevant certification — Google, HubSpot, Meta, etc.]
+
+---
+
+PORTFOLIO HIGHLIGHTS
+
+• [Project/Campaign Name] — [Brief description + link]
+• [Project/Campaign Name] — [Brief description + link]
+
+
+----------------------------------------------------
+TEMPLATE 4: CAREER CHANGER RESUME
+----------------------------------------------------
+Works for: Switching industries, pivoting careers, reskilling
+
+[YOUR NAME]
+[Target Role] | [City] | [Email] | [LinkedIn]
+
+---
+
+SUMMARY
+[Current/recent role] transitioning to [target field]. Bringing [X years] 
+of transferable experience in [relevant skills]. Completed [relevant 
+training/certification] and built [project/portfolio] demonstrating 
+[target skill].
+
+---
+
+RELEVANT SKILLS & TRAINING
+
+[New Field Skill 1]: [Where you learned/practiced it]
+[New Field Skill 2]: [Project or certification demonstrating it]
+[New Field Skill 3]: [How you've applied it]
+
+Certifications: [Coursera, bootcamp, professional cert]
+Projects: [Side projects, volunteer work, freelance in new field]
+
+---
+
+TRANSFERABLE EXPERIENCE
+
+[Current/Recent Title] | [Company] | [Dates]
+
+How this prepares me for [target role]:
+• [Transferable skill] — [example of how you used it]
+• [Relevant responsibility] translating to [new field task]
+• [Soft skill demonstration] through [specific example]
+
+Key Achievements:
+• [Achievement showing analytical/problem-solving ability]
+• [Achievement showing communication/collaboration]
+• [Achievement showing learning agility or adaptability]
+
+[Previous Role] | [Company] | [Dates]
+
+• [Relevant transferable achievement]
+• [Skill that applies to new field]
+
+---
+
+EDUCATION
+
+[Degree] | [University] | [Year]
+
+Additional Training:
+• [Bootcamp/Course in new field] | [Year]
+• [Certification relevant to target role]
+
+---
+
+WHY I'M MAKING THIS CHANGE
+[1-2 sentences about motivation — professional but show genuine interest]
+
+
+----------------------------------------------------
+TEMPLATE 5: RECENT GRADUATE RESUME
+----------------------------------------------------
+Works for: New grads, entry-level, limited work experience
+
+[YOUR NAME]
+[Degree] Graduate | [Target Role]
+[City] | [Email] | [Phone] | [LinkedIn]
+
+---
+
+EDUCATION
+
+[University Name] | [Degree] in [Major]
+[Minor if relevant] | Graduated [Month Year]
+GPA: [Include if 3.2+] | [Honors/Dean's List if applicable]
+
+Relevant Coursework: [4-6 courses relevant to target role]
+
+---
+
+EXPERIENCE
+
+[Internship/Job Title] | [Company]
+[Dates]
+• [Task you owned and what you accomplished]
+• [Skill you developed + how you applied it]
+• [Result or feedback you received]
+
+[Part-Time Job/Work-Study] | [Organization]
+[Dates]
+• [Responsibility showing professionalism]
+• [Transferable skill example]
+
+---
+
+PROJECTS
+
+[Academic/Personal Project Name]
+[Course or personal project] | [Semester/Date]
+• [What you built/created/researched]
+• [Tools/methods used]
+• [Outcome or what you learned]
+
+[Another Project]
+• [Brief description]
+• [Skills demonstrated]
+
+---
+
+LEADERSHIP & ACTIVITIES
+
+[Organization] | [Role] | [Dates]
+• [What you did + impact]
+
+[Organization/Club] | [Role] | [Dates]
+• [Leadership or initiative example]
+
+---
+
+SKILLS
+
+Technical: [Software, languages, tools relevant to your field]
+Languages: [Include if bilingual/multilingual]
+Other: [Soft skills with specific examples where possible]
+
+
+====================================================
+            COVER LETTER TEMPLATES
+====================================================
+
+
+----------------------------------------------------
+TEMPLATE 1: CLASSIC PROFESSIONAL COVER LETTER
+----------------------------------------------------
+Works for: Most applications, corporate jobs, standard format
+
+[Your Name]
+[Your Email] | [Your Phone]
+[Date]
+
+[Hiring Manager Name]
+[Their Title]
+[Company Name]
+[Company Address]
+
+Dear [Mr./Ms. Last Name or "Hiring Team"],
+
+PARAGRAPH 1: THE HOOK
+I'm applying for the [Job Title] position at [Company]. [One sentence 
+about why you're excited about this specific role or company — show 
+you've done research]. With [X years] of experience in [relevant field], 
+I'm confident I can [key value you'll add].
+
+PARAGRAPH 2: YOUR FIT
+In my current role at [Company], I [specific achievement relevant to 
+job description]. I also [another relevant accomplishment with metrics]. 
+What draws me to [Company] is [specific thing about their mission, 
+product, culture, or recent news]. I'd bring the same [skill/approach] 
+to help [specific goal from job description].
+
+PARAGRAPH 3: THE BRIDGE
+Beyond my experience in [core skill], I offer [secondary relevant skill] 
+and [another strength]. I'm particularly excited about [specific project, 
+team, or challenge mentioned in posting]. I'd love to contribute by 
+[specific way you'd add value].
+
+PARAGRAPH 4: THE CLOSE
+I'd welcome the chance to discuss how my background in [area] could 
+support [Company]'s goals for [specific initiative]. I'm available 
+[your availability] and can be reached at [phone/email].
+
+Thank you for considering my application.
+
+Sincerely,
+[Your Name]
+
+
+----------------------------------------------------
+TEMPLATE 2: CAREER CHANGER COVER LETTER
+----------------------------------------------------
+Works for: Industry switches, career pivots, non-traditional backgrounds
+
+[Your Name]
+[Email] | [Phone] | [LinkedIn]
+[Date]
+
+Dear [Hiring Manager/Team],
+
+I'm applying for the [Job Title] role at [Company] — and yes, my 
+background might look different from your typical candidate. That's 
+exactly why I could be valuable.
+
+For the past [X years], I've worked as a [current/recent role] in 
+[industry]. In that time, I developed [transferable skill 1], 
+[transferable skill 2], and [transferable skill 3] — all of which 
+directly apply to [target role/field].
+
+What prompted the change? [1-2 sentences about your genuine motivation 
+— keep it professional]. I've since [completed certification/built 
+projects/done freelance work] to build hands-on experience. Specifically, 
+I [concrete example of new skill in action].
+
+What I bring that traditional candidates might not:
+• [Unique perspective from your background]
+• [Skill that's rare in the new field but valuable]
+• [Your approach/work style that sets you apart]
+
+I know career changers require a leap of faith. I'm happy to [offer 
+a trial project, discuss specifics, share portfolio] to demonstrate 
+my capabilities beyond what a resume shows.
+
+I'd love to discuss how my unconventional path could benefit [Company].
+
+Sincerely,
+[Your Name]
+
+
+----------------------------------------------------
+TEMPLATE 3: STARTUP/TECH COVER LETTER
+----------------------------------------------------
+Works for: Startups, tech companies, casual culture, brevity valued
+
+[Your Name]
+[Email] | [Portfolio/GitHub] | [LinkedIn]
+
+Hey [Company] team,
+
+I'll keep this short — I know you're busy building.
+
+I'm a [your role] who [1-sentence value prop]. I saw your [Job Title] 
+opening and got excited because [specific, genuine reason — product, 
+mission, tech stack, team, or recent news].
+
+What I'd bring:
+
+→ [Achievement 1 with metric] — at [Company], where I [brief context]
+→ [Achievement 2] — relevant to [something in their job posting]
+→ [Skill/quality] — because I've seen how [insight about their space]
+
+I've been following [Company] since [specific thing — product launch, 
+funding round, feature you used]. [One sentence about why that resonated].
+
+My resume has the details, but the TLDR: I [your core strength] and 
+I want to do it for [Company].
+
+Happy to hop on a quick call, do a take-home, or grab coffee.
+
+[Your Name]
+[Email] | [Phone]
+
+
+----------------------------------------------------
+TEMPLATE 4: ENTRY-LEVEL / RECENT GRAD COVER LETTER
+----------------------------------------------------
+Works for: New grads, first job, limited professional experience
+
+[Your Name]
+[Email] | [Phone] | [LinkedIn]
+[Date]
+
+Dear [Hiring Manager/Team],
+
+I'm a recent [Degree] graduate from [University] applying for the 
+[Job Title] position at [Company]. While I'm early in my career, 
+I've spent the past [X months/years] intentionally building the 
+skills this role requires.
+
+During my time at [University/Internship/Project], I:
+• [Relevant achievement or project] — taught me [applicable skill]
+• [Another example] — developed [another relevant skill]
+• [Leadership or initiative example] — showing [quality they want]
+
+What draws me to [Company] specifically is [something specific about 
+their mission, product, or culture]. I've [used their product / 
+followed their work / connected with someone there] and I'm excited 
+about [specific aspect].
+
+I understand that entry-level candidates need to prove themselves. 
+I'm ready to work hard, learn fast, and contribute wherever needed. 
+I'm particularly eager to [specific aspect of the role].
+
+I'd be grateful for the opportunity to discuss how my skills and 
+enthusiasm could contribute to [Company].
+
+Sincerely,
+[Your Name]
+
+
+----------------------------------------------------
+TEMPLATE 5: REFERRAL COVER LETTER
+----------------------------------------------------
+Works for: When someone referred you or made an introduction
+
+[Your Name]
+[Email] | [Phone]
+[Date]
+
+Dear [Hiring Manager],
+
+[Referrer's Name] suggested I reach out about the [Job Title] opening 
+at [Company]. After [how you know the referrer — worked together, 
+met at event, mutual connection], they thought my background in 
+[your specialty] would be a strong fit.
+
+[Referrer] mentioned that [Company] is looking for someone who can 
+[key requirement from job posting]. In my current role at [Your Company], 
+I've done exactly that — [specific achievement that matches]. I also 
+[another relevant accomplishment].
+
+A few highlights:
+• [Metric-driven achievement relevant to role]
+• [Example of relevant skill in action]
+• [Another point addressing a job requirement]
+
+Beyond the skills match, I'm drawn to [Company] because [genuine reason 
+— their mission, a product you use, their reputation].
+
+I'd love to continue the conversation [Referrer] started. I'm available 
+[your availability] and can be reached at [email/phone].
+
+Best,
+[Your Name]
+
+
+====================================================
+          RESUME WRITING CHEAT SHEET
+====================================================
+
+THE GOLDEN RULES
+----------------
+
+1. ACHIEVEMENTS > RESPONSIBILITIES
+   Bad: "Responsible for managing social media accounts"
+   Good: "Grew Instagram from 5K to 50K in 8 months"
+
+2. NUMBERS = CREDIBILITY
+   Bad: "Improved sales significantly"
+   Good: "Increased quarterly sales by 34% ($240K)"
+
+3. RECENT = RELEVANT
+   Last 2-3 roles get the most space
+   Older jobs get 1-3 bullets max
+
+4. ONE PAGE (USUALLY)
+   New grad to 10 years: 1 page
+   Senior/executive: 2 pages okay
+   Nobody reads 3+ pages
+
+5. TAILOR EVERY TIME
+   Read the job posting
+   Use their language
+   Address their specific needs
+
+
+POWER VERBS BY CATEGORY
+-----------------------
+
+Leadership: Led, Directed, Managed, Oversaw, Coordinated, Guided
+Achievement: Achieved, Exceeded, Delivered, Generated, Increased
+Creation: Built, Designed, Developed, Created, Launched, Implemented
+Analysis: Analyzed, Evaluated, Assessed, Researched, Identified
+Communication: Presented, Negotiated, Collaborated, Advised, Trained
+
+
+FORMAT BASICS
+-------------
+
+• Font: 10-12pt, readable (Arial, Calibri, Georgia)
+• Margins: 0.5" to 1"
+• Sections: Clear headers, consistent formatting
+• File: PDF unless they ask for Word
+• Filename: "FirstName_LastName_Resume.pdf"
+
+
+THE 6-SECOND TEST
+-----------------
+
+Recruiters spend 6 seconds on first scan. They look at:
+1. Current/recent title
+2. Current company
+3. Previous company
+4. Education
+5. Dates/tenure
+6. Keywords
+
+Make these pop visually.
+
+
+COMMON MISTAKES
+---------------
+
+✗ Typos (have someone proofread)
+✗ Generic objective statements
+✗ Including references on resume
+✗ Unrelated hobbies
+✗ Photos (in US)
+✗ Personal info like age, SSN
+✗ Fancy graphics that break ATS
+✗ Lying
+
+
+====================================================
+         COVER LETTER WRITING TIPS
+====================================================
+
+STRUCTURE THAT WORKS
+--------------------
+
+1. Opening Hook (1-2 sentences)
+   - Name the role
+   - Why THIS company (specific!)
+   - Quick value statement
+
+2. Evidence Paragraph (3-4 sentences)
+   - Your best relevant achievement
+   - Connect to what they need
+   - Use numbers if possible
+
+3. Bridge Paragraph (2-3 sentences)
+   - Additional relevant skills
+   - Something specific about the role
+   - Show you read the posting
+
+4. Close (2-3 sentences)
+   - Clear call to action
+   - Contact info
+   - Thank them
+
+
+PRO TIPS
+--------
+
+• Mirror their language. They say "fast-paced," you say "fast-paced"
+• Do real research. Mention something only interested candidates know
+• Show, don't tell. "I'm detail-oriented" < "I caught a $50K billing error"
+• Keep it to one page. 3-4 paragraphs max
+• Different letter for each application
+
+
+WHAT NOT TO WRITE
+-----------------
+
+✗ "To Whom It May Concern"
+✗ "I am writing to apply for..." (obvious)
+✗ Restating your entire resume
+✗ "I think I would be a great fit"
+✗ Salary expectations (unless asked)
+✗ Why you need the job
+✗ Negativity about past employers
+
+
+====================================================
+
+Resume & Cover Letter Template Pack by FiftyTok
+Questions? hello@fiftytok.com
+
+====================================================

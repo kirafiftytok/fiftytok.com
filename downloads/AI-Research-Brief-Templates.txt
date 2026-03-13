@@ -1,0 +1,729 @@
+================================================================================
+                    AI RESEARCH BRIEF TEMPLATE PACK
+                         8 Templates + 4 AI Prompts
+================================================================================
+
+                        Thank you for your purchase!
+
+This pack includes 8 professional research brief templates plus 4 AI prompts
+to speed up your research process. Use them to turn messy research into
+clear, actionable briefs your stakeholders will actually read.
+
+================================================================================
+                              TABLE OF CONTENTS
+================================================================================
+
+1. Executive Summary Brief
+2. Competitive Analysis Brief
+3. Market Research Brief
+4. Technology Assessment Brief
+5. Customer Research Brief
+6. Industry Trends Brief
+7. Due Diligence Brief
+8. Quick Research Summary (1-Pager)
++ BONUS: 4 AI-Assisted Research Prompts
+
+================================================================================
+                        TEMPLATE 1: EXECUTIVE SUMMARY BRIEF
+================================================================================
+
+EXECUTIVE SUMMARY BRIEF
+========================
+
+TOPIC: [Your research topic]
+DATE: [Date]
+AUTHOR: [Your name]
+PREPARED FOR: [Audience/client]
+
+---
+
+THE BOTTOM LINE
+What decision-makers need to know in 30 seconds:
+[2-3 sentences. Lead with the insight, not the background.]
+
+---
+
+KEY FINDINGS
+
+1. [Most important finding]
+   → Implication: [What this means]
+
+2. [Second finding]
+   → Implication: [What this means]
+
+3. [Third finding]
+   → Implication: [What this means]
+
+---
+
+RECOMMENDED ACTION
+[Clear, specific recommendation. One sentence if possible.]
+
+WHY NOW
+[Why this matters right now. Urgency driver.]
+
+---
+
+SUPPORTING DATA
+• [Stat or data point 1]
+• [Stat or data point 2]
+• [Stat or data point 3]
+
+---
+
+NEXT STEPS
+□ [Action item 1] — Owner: [Name] — Due: [Date]
+□ [Action item 2] — Owner: [Name] — Due: [Date]
+□ [Action item 3] — Owner: [Name] — Due: [Date]
+
+---
+
+APPENDIX
+[Link to full research document]
+[Link to data sources]
+
+
+================================================================================
+                      TEMPLATE 2: COMPETITIVE ANALYSIS BRIEF
+================================================================================
+
+COMPETITIVE ANALYSIS BRIEF
+===========================
+
+SUBJECT: [Your company/product]
+COMPETITORS ANALYZED: [List competitors]
+DATE: [Date]
+ANALYST: [Your name]
+
+---
+
+COMPETITIVE POSITION SUMMARY
+[One paragraph: Where you stand vs. competitors. Be honest.]
+
+---
+
+HEAD-TO-HEAD COMPARISON
+
+                    YOU         COMP A      COMP B      COMP C
+PRICING             [___]       [___]       [___]       [___]
+FEATURES            [___]       [___]       [___]       [___]
+MARKET SHARE        [___]       [___]       [___]       [___]
+GROWTH RATE         [___]       [___]       [___]       [___]
+CUSTOMER SAT        [___]       [___]       [___]       [___]
+
+---
+
+YOUR ADVANTAGES
+✓ [What you do better than competitors - be specific]
+✓ [Another advantage]
+✓ [Another advantage]
+
+---
+
+COMPETITOR ADVANTAGES (THREATS)
+⚠ [What competitors do better - be honest]
+⚠ [Another threat]
+⚠ [Another threat]
+
+---
+
+OPPORTUNITY GAPS
+Where competitors are weak AND you could capitalize:
+1. [Gap + how to exploit it]
+2. [Gap + how to exploit it]
+3. [Gap + how to exploit it]
+
+---
+
+STRATEGIC RECOMMENDATIONS
+Based on this analysis:
+1. [Recommendation - prioritize]
+2. [Recommendation - consider]
+3. [Recommendation - monitor]
+
+---
+
+SOURCES
+[List your data sources for credibility]
+
+
+================================================================================
+                        TEMPLATE 3: MARKET RESEARCH BRIEF
+================================================================================
+
+MARKET RESEARCH BRIEF
+======================
+
+MARKET: [Industry/vertical]
+DATE: [Date]
+RESEARCHER: [Your name]
+PURPOSE: [Why this research matters]
+
+---
+
+MARKET AT A GLANCE
+
+Total Market Size:      $[___] ([Year])
+Growth Rate:            [___]% CAGR
+Key Players:            [List top 3-5]
+Your Segment:           $[___] (addressable market)
+
+---
+
+MARKET DYNAMICS
+
+DRIVERS (what's pushing growth)
+• [Driver 1 + data point]
+• [Driver 2 + data point]
+• [Driver 3 + data point]
+
+HEADWINDS (what's slowing growth)
+• [Challenge 1]
+• [Challenge 2]
+• [Challenge 3]
+
+---
+
+CUSTOMER SEGMENTS
+
+SEGMENT A: [Name]
+- Size: [___]
+- Needs: [___]
+- Buying behavior: [___]
+- Your fit: [High/Medium/Low]
+
+SEGMENT B: [Name]
+- Size: [___]
+- Needs: [___]
+- Buying behavior: [___]
+- Your fit: [High/Medium/Low]
+
+SEGMENT C: [Name]
+- Size: [___]
+- Needs: [___]
+- Buying behavior: [___]
+- Your fit: [High/Medium/Low]
+
+---
+
+TRENDS TO WATCH
+
+SHORT-TERM (6-12 months):
+• [Trend + impact]
+
+MEDIUM-TERM (1-3 years):
+• [Trend + impact]
+
+LONG-TERM (3-5 years):
+• [Trend + impact]
+
+---
+
+STRATEGIC IMPLICATIONS
+What this means for your business:
+[2-3 clear takeaways]
+
+---
+
+RECOMMENDED FOCUS
+Based on this research, prioritize:
+1. [Market/segment to focus on]
+2. [Strategy to pursue]
+3. [Trend to leverage]
+
+
+================================================================================
+                     TEMPLATE 4: TECHNOLOGY ASSESSMENT BRIEF
+================================================================================
+
+TECHNOLOGY ASSESSMENT BRIEF
+============================
+
+TECHNOLOGY: [Name of tech/tool/platform]
+DATE: [Date]
+ASSESSOR: [Your name]
+BUSINESS CONTEXT: [Why you're evaluating this]
+
+---
+
+QUICK VERDICT
+[One sentence: Should we adopt, watch, or skip?]
+
+CONFIDENCE LEVEL: [High/Medium/Low]
+
+---
+
+WHAT IT IS
+[2-3 sentences explaining the technology in plain English]
+
+---
+
+CAPABILITY ASSESSMENT
+
+STRENGTHS
+✓ [What it does well]
+✓ [Another strength]
+✓ [Another strength]
+
+LIMITATIONS
+✗ [What it can't do / does poorly]
+✗ [Another limitation]
+✗ [Another limitation]
+
+---
+
+FIT ANALYSIS
+
+BUSINESS NEED                    FIT SCORE (1-5)
+[Need 1]                         [___]
+[Need 2]                         [___]
+[Need 3]                         [___]
+[Need 4]                         [___]
+
+OVERALL FIT: [___/5]
+
+---
+
+IMPLEMENTATION CONSIDERATIONS
+
+COMPLEXITY:         [Low/Medium/High]
+TIME TO VALUE:      [___] weeks/months
+COST ESTIMATE:      $[___]
+RESOURCES NEEDED:   [___]
+RISKS:              [List key risks]
+
+---
+
+ALTERNATIVES CONSIDERED
+1. [Alternative + why not chosen]
+2. [Alternative + why not chosen]
+3. [Alternative + why not chosen]
+
+---
+
+RECOMMENDATION
+□ ADOPT NOW — [Rationale]
+□ PILOT FIRST — [Scope of pilot]
+□ WATCH — [What would change the decision]
+□ SKIP — [Why]
+
+---
+
+NEXT STEPS IF PROCEEDING
+1. [Step 1] — Owner: [___] — Timeline: [___]
+2. [Step 2] — Owner: [___] — Timeline: [___]
+3. [Step 3] — Owner: [___] — Timeline: [___]
+
+
+================================================================================
+                      TEMPLATE 5: CUSTOMER RESEARCH BRIEF
+================================================================================
+
+CUSTOMER RESEARCH BRIEF
+========================
+
+RESEARCH TYPE: [Interviews/Surveys/Analysis]
+SAMPLE SIZE: [___]
+DATE RANGE: [Start - End]
+RESEARCHER: [Your name]
+
+---
+
+RESEARCH OBJECTIVE
+What we wanted to learn:
+[State the question clearly]
+
+---
+
+METHODOLOGY
+- Method: [How data was collected]
+- Sample: [Who was included]
+- Limitations: [What could bias results]
+
+---
+
+KEY FINDINGS
+
+FINDING 1: [Headline]
+"[Direct quote from customer]"
+[What this means + data point]
+
+FINDING 2: [Headline]
+"[Direct quote from customer]"
+[What this means + data point]
+
+FINDING 3: [Headline]
+"[Direct quote from customer]"
+[What this means + data point]
+
+---
+
+CUSTOMER PAIN POINTS (RANKED)
+
+1. [Pain point] — [X]% mentioned this
+2. [Pain point] — [X]% mentioned this
+3. [Pain point] — [X]% mentioned this
+4. [Pain point] — [X]% mentioned this
+5. [Pain point] — [X]% mentioned this
+
+---
+
+WHAT CUSTOMERS VALUE MOST
+
+1. [Value driver] — [Evidence]
+2. [Value driver] — [Evidence]
+3. [Value driver] — [Evidence]
+
+---
+
+SURPRISES & INSIGHTS
+Things we didn't expect:
+• [Insight 1]
+• [Insight 2]
+• [Insight 3]
+
+---
+
+IMPLICATIONS FOR [PRODUCT/SERVICE]
+
+DO MORE:
+• [What customers want more of]
+
+DO LESS:
+• [What customers don't value]
+
+START DOING:
+• [New things customers want]
+
+---
+
+RECOMMENDED ACTIONS
+1. [Action] — Priority: [High/Med/Low]
+2. [Action] — Priority: [High/Med/Low]
+3. [Action] — Priority: [High/Med/Low]
+
+
+================================================================================
+                       TEMPLATE 6: INDUSTRY TRENDS BRIEF
+================================================================================
+
+INDUSTRY TRENDS BRIEF
+======================
+
+INDUSTRY: [Your industry]
+QUARTER/YEAR: [Time period]
+ANALYST: [Your name]
+LAST UPDATED: [Date]
+
+---
+
+THIS QUARTER'S HEADLINE
+[One sentence capturing the biggest shift]
+
+---
+
+TOP 5 TRENDS TO KNOW
+
+TREND 1: [Name]
+Status: [Emerging / Accelerating / Maturing / Declining]
+Impact: [High / Medium / Low]
+Timeline: [When this matters]
+What to do: [Action]
+
+TREND 2: [Name]
+Status: [Emerging / Accelerating / Maturing / Declining]
+Impact: [High / Medium / Low]
+Timeline: [When this matters]
+What to do: [Action]
+
+TREND 3: [Name]
+Status: [Emerging / Accelerating / Maturing / Declining]
+Impact: [High / Medium / Low]
+Timeline: [When this matters]
+What to do: [Action]
+
+TREND 4: [Name]
+Status: [Emerging / Accelerating / Maturing / Declining]
+Impact: [High / Medium / Low]
+Timeline: [When this matters]
+What to do: [Action]
+
+TREND 5: [Name]
+Status: [Emerging / Accelerating / Maturing / Declining]
+Impact: [High / Medium / Low]
+Timeline: [When this matters]
+What to do: [Action]
+
+---
+
+SIGNALS WE'RE TRACKING
+
+POSITIVE SIGNALS
+• [Signal + what it indicates]
+• [Signal + what it indicates]
+• [Signal + what it indicates]
+
+WARNING SIGNALS
+• [Signal + what it indicates]
+• [Signal + what it indicates]
+• [Signal + what it indicates]
+
+---
+
+COMPETITIVE MOVES WORTH NOTING
+• [Competitor] did [action] — Implication: [___]
+• [Competitor] did [action] — Implication: [___]
+• [Competitor] did [action] — Implication: [___]
+
+---
+
+WHAT THIS MEANS FOR US
+[2-3 paragraphs: Strategic implications]
+
+---
+
+RECOMMENDED WATCH LIST
+Monitor these over the next quarter:
+1. [Thing to watch]
+2. [Thing to watch]
+3. [Thing to watch]
+
+
+================================================================================
+                         TEMPLATE 7: DUE DILIGENCE BRIEF
+================================================================================
+
+DUE DILIGENCE BRIEF
+====================
+
+SUBJECT: [Company/Opportunity name]
+TYPE: [Investment / Partnership / Acquisition]
+DATE: [Date]
+ANALYST: [Your name]
+DEAL SIZE: $[___]
+
+---
+
+EXECUTIVE SUMMARY
+[3-4 sentences: What this is, why it matters, your recommendation]
+
+RECOMMENDATION: [PROCEED / PROCEED WITH CAUTION / PASS]
+
+---
+
+COMPANY OVERVIEW
+
+Founded:            [Year]
+Headquarters:       [Location]
+Employees:          [Count]
+Funding to date:    $[___]
+Key people:         [Names + roles]
+
+---
+
+BUSINESS MODEL
+How they make money:
+[Clear explanation in 2-3 sentences]
+
+Revenue streams:
+• [Stream 1] — [X]% of revenue
+• [Stream 2] — [X]% of revenue
+• [Stream 3] — [X]% of revenue
+
+---
+
+FINANCIALS SNAPSHOT
+
+                    YEAR 1      YEAR 2      YEAR 3
+Revenue             $[___]      $[___]      $[___]
+Growth Rate         [___]%      [___]%      [___]%
+Gross Margin        [___]%      [___]%      [___]%
+Burn Rate           $[___]/mo   $[___]/mo   $[___]/mo
+Runway              [___] mo    [___] mo    [___] mo
+
+---
+
+STRENGTHS
+✓ [Strength + evidence]
+✓ [Strength + evidence]
+✓ [Strength + evidence]
+
+---
+
+RISKS & RED FLAGS
+⚠ [Risk + mitigation if any]
+⚠ [Risk + mitigation if any]
+⚠ [Risk + mitigation if any]
+
+---
+
+STRATEGIC FIT
+
+ALIGNMENT WITH OUR GOALS: [High/Medium/Low]
+- [Goal 1]: [How they help]
+- [Goal 2]: [How they help]
+- [Goal 3]: [How they help]
+
+SYNERGIES:
+• [Synergy 1]
+• [Synergy 2]
+• [Synergy 3]
+
+---
+
+KEY TERMS TO NEGOTIATE
+1. [Term + our position]
+2. [Term + our position]
+3. [Term + our position]
+
+---
+
+DECISION FRAMEWORK
+
+PROCEED IF:
+• [Condition]
+• [Condition]
+• [Condition]
+
+PASS IF:
+• [Condition]
+• [Condition]
+• [Condition]
+
+---
+
+NEXT STEPS
+1. [Step] — By: [Date]
+2. [Step] — By: [Date]
+3. [Step] — By: [Date]
+
+
+================================================================================
+                     TEMPLATE 8: QUICK RESEARCH SUMMARY (1-PAGER)
+================================================================================
+
+QUICK RESEARCH SUMMARY
+=======================
+
+TOPIC: [Topic]
+DATE: [Date]
+TIME SPENT: [How long this took]
+
+---
+
+THE ASK
+[What question were you trying to answer?]
+
+---
+
+THE ANSWER
+[Clear, direct answer in 2-3 sentences]
+
+---
+
+KEY FACTS
+• [Fact 1]
+• [Fact 2]
+• [Fact 3]
+• [Fact 4]
+• [Fact 5]
+
+---
+
+SOURCES
+1. [Source + credibility note]
+2. [Source + credibility note]
+3. [Source + credibility note]
+
+---
+
+CONFIDENCE LEVEL: [High/Medium/Low]
+GAPS: [What we still don't know]
+
+---
+
+SO WHAT?
+[Why this matters + what to do with this info]
+
+
+================================================================================
+                     BONUS: AI-ASSISTED RESEARCH PROMPTS
+================================================================================
+
+Use these prompts with ChatGPT, Claude, or other AI assistants to speed up
+your research process:
+
+--------------------------------------------------------------------------------
+PROMPT 1: FOR EXECUTIVE SUMMARIES
+--------------------------------------------------------------------------------
+
+I'm writing an executive summary brief on [TOPIC] for [AUDIENCE]. 
+Here's my raw research: [PASTE NOTES]
+
+Help me:
+1. Identify the 3 most important findings
+2. Write a "bottom line" statement (30 seconds to read)
+3. Suggest one clear recommended action
+
+--------------------------------------------------------------------------------
+PROMPT 2: FOR COMPETITIVE ANALYSIS
+--------------------------------------------------------------------------------
+
+I need to analyze [MY COMPANY] vs. [COMPETITORS]. 
+
+Based on publicly available information, help me:
+1. Create a comparison table for: pricing, features, market position
+2. Identify 3 areas where we have advantages
+3. Identify 3 areas where competitors beat us
+4. Suggest 2-3 opportunity gaps we could exploit
+
+--------------------------------------------------------------------------------
+PROMPT 3: FOR MARKET RESEARCH
+--------------------------------------------------------------------------------
+
+I'm researching the [INDUSTRY] market. Help me structure a brief covering:
+1. Market size and growth rate
+2. Top 3 market drivers and headwinds
+3. Key customer segments
+4. 3 trends to watch (short, medium, long-term)
+
+Focus on [GEOGRAPHIC REGION] and [TIME PERIOD].
+
+--------------------------------------------------------------------------------
+PROMPT 4: FOR TREND ANALYSIS
+--------------------------------------------------------------------------------
+
+What are the top 5 trends in [INDUSTRY] right now?
+
+For each trend, tell me:
+1. Is it emerging, accelerating, maturing, or declining?
+2. Impact level (high/medium/low)
+3. What companies should do about it
+
+
+================================================================================
+                              HOW TO USE THIS PACK
+================================================================================
+
+1. PICK THE RIGHT TEMPLATE for your research type
+2. FILL IN THE BRACKETS with your specific information
+3. DELETE SECTIONS that don't apply to your situation
+4. ADD SECTIONS if you need more detail for your audience
+5. KEEP IT SCANNABLE — busy people read in bullets
+6. LEAD WITH INSIGHTS — don't bury the good stuff at the end
+
+PRO TIP: Use the AI prompts first to gather and organize your research,
+THEN fill in the template. Much faster than starting from scratch.
+
+
+================================================================================
+                                  THANK YOU!
+================================================================================
+
+Questions or feedback? hello@fiftytok.com
+
+FiftyTok — From $50 to $1,000
+An AI's business experiment
+https://fiftytok.com
+
+================================================================================

@@ -1,0 +1,562 @@
+=========================================
+ MONTHLY BUDGET TRACKER — COMPLETE SYSTEM
+=========================================
+
+Your complete personal finance toolkit:
+• Monthly Budget Template
+• Expense Tracking Log  
+• Bill Payment Calendar
+• Savings Goals Tracker
+• Debt Payoff Planner
+• 50/30/20 Budget Calculator
+• Net Worth Tracker
+• Annual Financial Review
+• Quick Money Habits Checklist
+
+Copy these templates into your preferred app 
+(Notion, Google Docs, Apple Notes, etc.)
+or print and fill in by hand.
+
+-----------------------------------------
+TABLE OF CONTENTS
+-----------------------------------------
+1. Monthly Budget Template
+2. Expense Tracking Log
+3. Bill Payment Calendar
+4. Savings Goals Tracker
+5. Debt Payoff Planner
+6. 50/30/20 Budget Calculator
+7. Net Worth Tracker
+8. Annual Financial Review
+9. Quick Money Habits Checklist
+
+=========================================
+1. MONTHLY BUDGET TEMPLATE
+=========================================
+
+Month: _______________ Year: ______
+
+--- INCOME ---
+
+| Source                      | Expected | Actual | Difference |
+|-----------------------------|----------|--------|------------|
+| Primary Job (after tax)     |          |        |            |
+| Side Hustle                 |          |        |            |
+| Investments/Dividends       |          |        |            |
+| Other Income                |          |        |            |
+| TOTAL INCOME                |          |        |            |
+
+
+--- FIXED EXPENSES (Same Every Month) ---
+
+| Expense                     | Amount | Due Date | Paid? |
+|-----------------------------|--------|----------|-------|
+| Rent/Mortgage               |        |          | [ ]   |
+| Car Payment                 |        |          | [ ]   |
+| Insurance (Car)             |        |          | [ ]   |
+| Insurance (Health)          |        |          | [ ]   |
+| Insurance (Other)           |        |          | [ ]   |
+| Phone                       |        |          | [ ]   |
+| Internet                    |        |          | [ ]   |
+| Subscriptions               |        |          | [ ]   |
+| Gym                         |        |          | [ ]   |
+| Loan Payments               |        |          | [ ]   |
+| Other Fixed                 |        |          | [ ]   |
+| TOTAL FIXED                 |        |          |       |
+
+
+--- VARIABLE EXPENSES ---
+
+| Category                    | Budget | Actual | Remaining |
+|-----------------------------|--------|--------|-----------|
+| Groceries                   |        |        |           |
+| Gas/Transportation          |        |        |           |
+| Dining Out                  |        |        |           |
+| Entertainment               |        |        |           |
+| Shopping (Clothes, etc.)    |        |        |           |
+| Personal Care               |        |        |           |
+| Household Items             |        |        |           |
+| Pets                        |        |        |           |
+| Gifts                       |        |        |           |
+| Miscellaneous               |        |        |           |
+| TOTAL VARIABLE              |        |        |           |
+
+
+--- MONTHLY SUMMARY ---
+
+Total Income:                 $________
+Total Fixed Expenses:       - $________
+Total Variable Expenses:    - $________
+REMAINING (Save/Invest):    = $________
+
+
+=========================================
+2. EXPENSE TRACKING LOG
+=========================================
+
+Track every purchase. Writing it down 
+changes your spending behavior.
+
+
+--- WEEK 1 ---
+
+| Date | Description | Category | Amount | Necessary? |
+|------|-------------|----------|--------|------------|
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+| WEEK 1 TOTAL:                         |        |            |
+
+
+--- WEEK 2 ---
+
+| Date | Description | Category | Amount | Necessary? |
+|------|-------------|----------|--------|------------|
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+| WEEK 2 TOTAL:                         |        |            |
+
+
+--- WEEK 3 ---
+
+| Date | Description | Category | Amount | Necessary? |
+|------|-------------|----------|--------|------------|
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+| WEEK 3 TOTAL:                         |        |            |
+
+
+--- WEEK 4 ---
+
+| Date | Description | Category | Amount | Necessary? |
+|------|-------------|----------|--------|------------|
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+|      |             |          |        | [ ] Y [ ] N |
+| WEEK 4 TOTAL:                         |        |            |
+
+
+--- MONTHLY EXPENSE SUMMARY ---
+
+| Category        | Total Spent | Budget | Over/Under |
+|-----------------|-------------|--------|------------|
+| Groceries       |             |        |            |
+| Dining Out      |             |        |            |
+| Transportation  |             |        |            |
+| Entertainment   |             |        |            |
+| Shopping        |             |        |            |
+| Other           |             |        |            |
+| TOTAL           |             |        |            |
+
+
+=========================================
+3. BILL PAYMENT CALENDAR
+=========================================
+
+Never miss a payment again.
+
+
+--- RECURRING BILLS ---
+
+| Bill              | Amount | Due Date | Auto-Pay? | Account |
+|-------------------|--------|----------|-----------|---------|
+| Rent/Mortgage     |        |          | [ ]       |         |
+| Electric          |        | ~____    | [ ]       |         |
+| Gas/Heat          |        | ~____    | [ ]       |         |
+| Water             |        | ~____    | [ ]       |         |
+| Internet          |        |          | [ ]       |         |
+| Phone             |        |          | [ ]       |         |
+| Car Insurance     |        |          | [ ]       |         |
+| Health Insurance  |        |          | [ ]       |         |
+| Car Payment       |        |          | [ ]       |         |
+| Student Loans     |        |          | [ ]       |         |
+| Credit Card       |        |          | [ ]       |         |
+| Subscriptions     |        |          | [ ]       |         |
+
+
+--- ANNUAL/SEMI-ANNUAL BILLS ---
+
+| Bill              | Amount | Due Date | Save $/Month |
+|-------------------|--------|----------|--------------|
+| Property Tax      |        |          |              |
+| Car Registration  |        |          |              |
+| Amazon Prime      |        |          |              |
+| Insurance (Annual)|        |          |              |
+| Professional Dues |        |          |              |
+
+
+--- THIS MONTH'S CALENDAR ---
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|-----|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+
+Write due dates on calendar. Highlight when paid.
+
+
+=========================================
+4. SAVINGS GOALS TRACKER
+=========================================
+
+
+--- GOAL SETTING ---
+
+| Goal             | Target $ | Deadline | $/Month | Priority |
+|------------------|----------|----------|---------|----------|
+| Emergency Fund   |          |          |         | High     |
+| Vacation         |          |          |         |          |
+| New Car          |          |          |         |          |
+| Down Payment     |          |          |         |          |
+| Wedding          |          |          |         |          |
+| ____________     |          |          |         |          |
+
+
+--- PROGRESS TRACKING ---
+
+Goal: _________________ Target: $________
+
+| Month | Deposited | Total Saved | % Complete |
+|-------|-----------|-------------|------------|
+| Jan   |           |             |            |
+| Feb   |           |             |            |
+| Mar   |           |             |            |
+| Apr   |           |             |            |
+| May   |           |             |            |
+| Jun   |           |             |            |
+| Jul   |           |             |            |
+| Aug   |           |             |            |
+| Sep   |           |             |            |
+| Oct   |           |             |            |
+| Nov   |           |             |            |
+| Dec   |           |             |            |
+
+
+--- PROGRESS BAR ---
+(Color in as you go — each box = 5%)
+
+[  ][  ][  ][  ][  ][  ][  ][  ][  ][  ]
+[  ][  ][  ][  ][  ][  ][  ][  ][  ][  ]
+
+0%                                   100%
+
+
+=========================================
+5. DEBT PAYOFF PLANNER
+=========================================
+
+
+--- DEBT OVERVIEW ---
+
+| Debt            | Balance | Interest % | Min Payment | Pay Order |
+|-----------------|---------|------------|-------------|-----------|
+| Credit Card 1   |         |            |             |           |
+| Credit Card 2   |         |            |             |           |
+| Student Loan    |         |            |             |           |
+| Car Loan        |         |            |             |           |
+| Personal Loan   |         |            |             |           |
+| Medical Debt    |         |            |             |           |
+| Other           |         |            |             |           |
+| TOTAL DEBT      |         |            |             |           |
+
+
+--- PAYOFF STRATEGIES ---
+
+AVALANCHE METHOD (saves the most money):
+1. Pay minimums on all debts
+2. Extra money → highest interest rate first
+3. When paid, roll to next highest rate
+
+SNOWBALL METHOD (most motivating):
+1. Pay minimums on all debts
+2. Extra money → smallest balance first
+3. When paid, roll to next smallest
+
+
+--- MONTHLY DEBT TRACKER ---
+
+| Month | Debt 1 | Debt 2 | Debt 3 | Debt 4 | Total |
+|-------|--------|--------|--------|--------|-------|
+| Start |        |        |        |        |       |
+| Jan   |        |        |        |        |       |
+| Feb   |        |        |        |        |       |
+| Mar   |        |        |        |        |       |
+| Apr   |        |        |        |        |       |
+| May   |        |        |        |        |       |
+| Jun   |        |        |        |        |       |
+
+
+--- DEBT-FREE DATE PROJECTION ---
+
+Starting Total Debt:    $________
+Monthly Payment (total): $________
+Estimated Debt-Free:    ________
+
+
+=========================================
+6. 50/30/20 BUDGET CALCULATOR
+=========================================
+
+A simple framework for your income.
+
+Monthly After-Tax Income: $________
+
+
+--- YOUR ALLOCATION ---
+
+| Category        | Target % | Target $ | Actual $ | Difference |
+|-----------------|----------|----------|----------|------------|
+| NEEDS           |    50%   |          |          |            |
+| WANTS           |    30%   |          |          |            |
+| SAVINGS/DEBT    |    20%   |          |          |            |
+
+
+--- WHAT COUNTS AS WHAT ---
+
+NEEDS (50%) — Essential, must-pay:
+• Housing (rent/mortgage)
+• Utilities
+• Groceries
+• Transportation (to work)
+• Required insurance
+• Minimum debt payments
+• Basic phone/internet
+
+WANTS (30%) — Nice, not essential:
+• Dining out
+• Entertainment
+• Shopping (non-essential)
+• Hobbies
+• Subscriptions
+• Vacations
+• Upgrades
+
+SAVINGS/DEBT (20%) — Future you:
+• Emergency fund
+• Retirement contributions
+• Extra debt payments
+• Investments
+• Big purchase savings
+
+
+=========================================
+7. NET WORTH TRACKER
+=========================================
+
+What you OWN minus what you OWE.
+
+
+--- ASSETS (What You Own) ---
+
+CASH & BANK ACCOUNTS
+| Account          | Value |
+|------------------|-------|
+| Checking         |       |
+| Savings          |       |
+| Cash on Hand     |       |
+
+INVESTMENTS
+| Account          | Value |
+|------------------|-------|
+| 401(k) / IRA     |       |
+| Brokerage        |       |
+| Crypto           |       |
+
+PROPERTY
+| Item             | Value |
+|------------------|-------|
+| Home (market)    |       |
+| Car(s) (resale)  |       |
+| Other Valuables  |       |
+
+TOTAL ASSETS:      $________
+
+
+--- LIABILITIES (What You Owe) ---
+
+| Debt             | Balance |
+|------------------|---------|
+| Mortgage         |         |
+| Car Loan(s)      |         |
+| Student Loans    |         |
+| Credit Cards     |         |
+| Personal Loans   |         |
+| Medical Debt     |         |
+| Other Debt       |         |
+
+TOTAL LIABILITIES: $________
+
+
+--- NET WORTH CALCULATION ---
+
+Total Assets:        $________
+Total Liabilities: - $________
+NET WORTH:         = $________
+
+
+--- NET WORTH OVER TIME ---
+
+| Date | Assets | Liabilities | Net Worth | Change |
+|------|--------|-------------|-----------|--------|
+|      |        |             |           | —      |
+|      |        |             |           |        |
+|      |        |             |           |        |
+|      |        |             |           |        |
+|      |        |             |           |        |
+|      |        |             |           |        |
+
+Track monthly or quarterly. 
+The trend matters more than the number.
+
+
+=========================================
+8. ANNUAL FINANCIAL REVIEW
+=========================================
+
+Do this once a year (January works great).
+
+Year: ______
+
+
+--- INCOME REVIEW ---
+
+Total income this year:    $________
+Change from last year:     _____%
+Income goal for next year: $________
+
+
+--- SPENDING REVIEW ---
+
+Total spent this year:     $________
+
+Biggest expense categories:
+1. ____________: $________
+2. ____________: $________
+3. ____________: $________
+
+Surprised by anything?
+_________________________________
+
+
+--- SAVINGS REVIEW ---
+
+Total saved this year:     $________
+Savings rate:              _____%
+Goal for next year:        $________
+
+
+--- DEBT REVIEW ---
+
+Starting debt (Jan 1):     $________
+Ending debt (Dec 31):      $________
+Debt paid off:             $________
+Remaining debt payoff date: ________
+
+
+--- NET WORTH REVIEW ---
+
+Net worth start of year:   $________
+Net worth end of year:     $________
+Change:                    $________
+
+
+--- GOALS CHECK ---
+
+Last year's goals:
+[ ] Goal 1: ___________________
+[ ] Goal 2: ___________________
+[ ] Goal 3: ___________________
+
+
+--- NEXT YEAR'S FINANCIAL GOALS ---
+
+1. _________________________________
+2. _________________________________
+3. _________________________________
+
+
+--- BIG WINS THIS YEAR ---
+• 
+• 
+• 
+
+
+--- WHAT TO IMPROVE ---
+• 
+• 
+• 
+
+
+=========================================
+9. QUICK MONEY HABITS CHECKLIST
+=========================================
+
+DAILY:
+[ ] Track any spending (30 seconds)
+
+WEEKLY:
+[ ] Review this week's spending
+[ ] Check upcoming bills
+
+MONTHLY:
+[ ] Update budget vs actual
+[ ] Review subscriptions (cancel unused?)
+[ ] Update savings goal progress
+[ ] Check net worth
+
+QUARTERLY:
+[ ] Review investment allocations
+[ ] Adjust budget categories if needed
+
+ANNUALLY:
+[ ] Full financial review
+[ ] Tax planning
+[ ] Insurance review
+[ ] Update beneficiaries
+
+
+=========================================
+WHY THIS WORKS
+=========================================
+
+Tracking isn't about restriction.
+It's about awareness.
+
+Most people don't know where their 
+money goes. They earn $5,000/month 
+and wonder why they have $200 left.
+
+When you write it down, you see it.
+When you see it, you can change it.
+
+Start messy. Improve over time.
+The best budget is the one you'll 
+actually use.
+
+=========================================
+
+Part of the FiftyTok Productivity Series
+fiftytok.com — An AI's business experiment
+
+=========================================
