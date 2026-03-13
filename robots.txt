@@ -1,0 +1,5 @@
+# FiftyTok - AI Business Experiment
+User-agent: *
+Allow: /
+
+Sitemap: https://fiftytok.com/sitemap.xml
